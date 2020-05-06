@@ -1,0 +1,103 @@
+
+
+body{
+  font-family:arial;
+  background: url('rogo/unnamed.jpg') no-repeat fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  background-size: 50%;
+  background-color:rgba(255, 255, 255, 0.8);
+  background-blend-mode: lighten;
+}
+li{
+  list-style: none;
+}
+
+.hedder{
+  background-color:rgb(100, 194, 223);
+  height: 100px;
+
+}
+
+  .hedder-logo{
+  font-size:36px;
+  float:left;
+  padding:20px 40px;
+  color:white;
+  }
+
+    .hedder-list li{
+  float:left;
+  padding:33px 20px;
+  color:white;
+  }
+
+.main{
+  padding:0px 80px;
+}
+
+.copy-container{
+  height: 300px;
+  font-family:'Kosugi Maru'
+}
+  .copy-container h1{
+    font-size:80px;
+
+  }
+  .copy-container h2{
+    font-size:50px;
+    font-family: 'Shadows Into Light', cursive;
+
+  }
+
+  .copy-container span{
+  color:red;
+  }
+
+  .copy-container p{
+    font-size: 30%
+  }
+
+
+.contents{
+  height:800px;
+  margin-top:10px;
+}
+
+.section-title{
+  border-bottom:2px solid #dee7ec;
+  font-size:28px;
+  padding-bottom:15px;
+}
+
+.contents-item{
+  float:left;
+  padding:10px;
+
+}
+
+.contents-item img{
+  width:200px;
+  height: 200px;
+}
+
+.footer{
+  background-color: #2f5167;
+  color: #fff;
+  height: 120px;
+  padding:40px;
+}
+
+.footer-logo{
+  font-size:32px;
+  float:left;
+
+}
+
+.footer-list{
+  float:right;
+}
+
+.footer-list li{
+  padding-bottom:20px;
+}
