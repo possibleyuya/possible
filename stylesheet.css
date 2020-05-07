@@ -13,12 +13,9 @@ li{
   list-style: none;
 }
 
-.hedder{
+.hedder {
   background-color:rgb(100, 194, 223);
   height: 100px;
-  position: fixed;
-  top: 0;
-  z-index: 10;
 
 }
 
