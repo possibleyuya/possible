@@ -16,6 +16,9 @@ li{
 .hedder{
   background-color:rgb(100, 194, 223);
   height: 100px;
+  position: fixded;
+  top: 0;
+  z-index: 10;
 
 }
 
